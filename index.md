@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://127.0.0.1:4000/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>An Kaito's Resume</title>
+
+  <!-- Google font typography settings - defined in _config.yml -->
+  
+  <link href="./index_files/css" rel="stylesheet" type="text/css">
+  
+
+  <meta name="description" content="A resume for GitHub Pages sites.">
+
+  <link rel="stylesheet" href="./index_files/main.css">
+  <link rel="canonical" href="http://localhost:4000/">
+  <link rel="icon" type="image/x-icon" href="http://127.0.0.1:4000/favicon.png">
+</head>
+
+
+  <body class="theme-default">
+
+    <div class="wrapper" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="telephone" content="84 091">
+      <meta itemprop="address" content="Saigon, Vietnam">
+
+      <header class="page-header">
+
+        <!-- You can turn off the avatar in _config.yml by setting to false -->
+        
+        <img src="https://avatars0.githubusercontent.com/u/25943964?s=460&v=4g" alt="my photo" class="avatar no-print" itemprop="image">
+        
+
+        <!-- Your name is defined in the _config.yml file -->
+        <h1 class="header-name" itemprop="name">An Kaito</h1>
+
+        <!-- Contact buttons don't work in print, configure in the _config.yml file, remove "print-only" to display always. -->
+        <div class="header-contact-info print-only">
+          <p>Tran Nao, Saigon, Vietnam | 84 091 | kaito.an2000@gmail.com</p>
+        </div>
+
+        <div class="title-bar no-print">
+
+          <!-- Your title is also defined in the _config.yml file -->
+          <h2 class="header-title" itemprop="jobTitle">Freelancer</h2>
+
+          <!-- This is the markup for the icon links; moved out to an include because it's very verbose, and you shouldn't ever need to edit the markup (unless you want to re-order the icons); if you want to customize which links appear, define them in the _config.yml file -->
+          <!-- and guess where these are defined? Yup, you guessed it: the _config.yml file -->
+
+<ul class="icon-links">
+
+  <!-- GitHub link -->
+  
+  <li class="icon-link-item"><a href="https://github.com/kaitoan2000" class="icon-link" itemprop="sameAs"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="GitHub" fill-rule="evenodd" clip-rule="evenodd" fill="#D1CECC" d="M14.01,0C6.27,0-0.01,6.28-0.01,14.02
+  c0,6.19,4.02,11.45,9.59,13.3c0.7,0.13,0.96-0.3,0.96-0.68c0-0.33-0.01-1.21-0.02-2.38c-3.9,0.85-4.72-1.88-4.72-1.88
+  c-0.64-1.62-1.56-2.05-1.56-2.05c-1.27-0.87,0.1-0.85,0.1-0.85c1.41,0.1,2.15,1.44,2.15,1.44c1.25,2.14,3.28,1.52,4.08,1.16
+  c0.13-0.91,0.49-1.52,0.89-1.87c-3.11-0.35-6.38-1.56-6.38-6.93c0-1.53,0.55-2.78,1.44-3.76C6.37,9.17,5.89,7.74,6.65,5.81
+  c0,0,1.18-0.38,3.85,1.44c1.12-0.31,2.32-0.47,3.51-0.47c1.19,0.01,2.39,0.16,3.51,0.47c2.68-1.81,3.85-1.44,3.85-1.44
+  c0.76,1.93,0.28,3.35,0.14,3.71c0.9,0.98,1.44,2.23,1.44,3.76c0,5.38-3.28,6.57-6.4,6.92c0.5,0.43,0.95,1.29,0.95,2.6
+  c0,1.87-0.02,3.39-0.02,3.84c0,0.37,0.25,0.81,0.96,0.67c5.56-1.86,9.58-7.11,9.58-13.3C28.03,6.28,21.75,0,14.01,0z"></path>
+</svg>
+</a></li>
+  
+
+  <!-- Twitter link -->
+  
+
+  <!-- Dribbble link -->
+  
+
+  <!-- Facebook link -->
+  
+  <li class="icon-link-item"><a href="https://www.facebook.com/kaito.an2000" class="icon-link" itemprop="sameAs"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="Facebook" fill="#D1CECC" d="M14,0C6.27,0,0,6.27,0,14s6.27,14,14,14s14-6.27,14-14S21.73,0,14,0z M20.99,20.22
+  c0,0.43-0.35,0.77-0.77,0.77h-3.56v-5.42h1.82l0.27-2.11h-2.09v-1.35c0-0.61,0.17-1.03,1.05-1.03l1.12,0V9.2
+  c-0.19-0.03-0.86-0.08-1.63-0.08c-1.61,0-2.71,0.98-2.71,2.79v1.56h-1.82v2.11h1.82v5.42h-6.7c-0.43,0-0.77-0.35-0.77-0.77V7.78
+  c0-0.43,0.35-0.77,0.77-0.77h12.44c0.43,0,0.77,0.35,0.77,0.77V20.22z"></path>
+</svg>
+</a></li>
+  
+
+  <!-- LinkedIn link -->
+  
+
+  <!-- Instagram link -->
+  
+
+  <!-- Website link -->
+  
+  <li class="icon-link-item"><a href="https://chuyencuasys.com/" class="icon-link" itemprop="url"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="Website" fill="#D1CECC" d="M14.83,7.6c0.03,0.08,0.03,0.14,0,0.19s-0.08,0.07-0.17,0.07c-0.12,0-0.26-0.01-0.4-0.04
+  s-0.2-0.06-0.18-0.1c0.15-0.15,0.16-0.26,0.03-0.33c-0.13-0.07-0.27-0.11-0.42-0.11s-0.25-0.04-0.3-0.09s-0.03-0.09,0.05-0.09
+  s0.22,0,0.4,0.01c0.19,0.01,0.31,0.04,0.37,0.08s0.17,0.1,0.33,0.19S14.8,7.52,14.83,7.6z M15.9,13.35c-0.11-0.03-0.2-0.03-0.26,0
+  s-0.13,0.05-0.2,0.05c-0.08-0.01-0.25-0.09-0.5-0.24s-0.5-0.22-0.77-0.22c-0.11,0.01-0.17,0.04-0.19,0.08s-0.01,0.07,0.01,0.08
+  c0.02,0.01,0.12,0.03,0.29,0.05s0.4,0.11,0.67,0.26c0.28,0.15,0.48,0.21,0.61,0.19s0.22-0.06,0.28-0.1
+  c0.07-0.01,0.12-0.03,0.16-0.06S16.01,13.38,15.9,13.35z M13.62,6.85c0.17-0.03,0.3-0.13,0.38-0.3c0.03-0.14-0.04-0.2-0.21-0.18
+  s-0.29,0.07-0.37,0.13c-0.01,0.03-0.02,0.06-0.03,0.09s-0.02,0.06-0.03,0.07l-0.08,0.1c-0.03,0.03-0.03,0.05-0.02,0.06
+  C13.32,6.88,13.44,6.89,13.62,6.85z M16.12,7.08c-0.02-0.16-0.11-0.3-0.26-0.41s-0.32-0.19-0.5-0.22c-0.18-0.03-0.38-0.07-0.61-0.12
+  s-0.4-0.04-0.53,0.04c-0.21,0.18-0.25,0.31-0.12,0.39c0.07,0.03,0.2,0.05,0.38,0.06s0.44,0.15,0.76,0.41
+  c0.11,0.08,0.29,0.21,0.55,0.37s0.44,0.23,0.55,0.19c0.06-0.06,0.04-0.15-0.05-0.28S16.14,7.24,16.12,7.08z M28,14
+  c0,7.73-6.27,14-14,14S0,21.73,0,14S6.27,0,14,0S28,6.27,28,14z M21.95,14c-0.06-2.25-0.83-4.12-2.33-5.62
+  c-1.5-1.5-3.37-2.27-5.62-2.33c-2.25,0.06-4.12,0.83-5.62,2.33c-1.5,1.5-2.27,3.37-2.33,5.62c0.06,2.25,0.83,4.12,2.33,5.62
+  c1.5,1.5,3.37,2.27,5.62,2.33c0.54,0,1.06-0.05,1.57-0.14c-0.11-0.07-0.17-0.24-0.18-0.51s0.04-0.52,0.16-0.76
+  c0.15-0.26,0.3-0.61,0.46-1.04c0.15-0.43,0.08-0.77-0.23-1c-0.32-0.18-0.51-0.34-0.57-0.49s-0.19-0.32-0.37-0.54
+  s-0.28-0.36-0.28-0.44v-0.21c-0.01-0.21,0.05-0.43,0.19-0.66l0.25-0.39c0.01-0.04,0.02-0.1,0.02-0.19v-0.19
+  c-0.01-0.04-0.07-0.09-0.17-0.16s-0.17-0.1-0.22-0.1s-0.09,0.01-0.11,0.05s-0.07,0.06-0.13,0.06s-0.17-0.04-0.33-0.13
+  c-0.16-0.09-0.27-0.16-0.32-0.21s-0.1-0.11-0.14-0.19s-0.09-0.15-0.16-0.22s-0.11-0.1-0.16-0.09s-0.12,0-0.23-0.03l-1.45-0.56
+  c-0.26-0.11-0.43-0.23-0.5-0.37c-0.07-0.14-0.1-0.26-0.1-0.37s-0.06-0.23-0.17-0.37l-0.29-0.37c-0.08-0.12-0.14-0.24-0.17-0.34
+  s-0.05-0.15-0.06-0.13c-0.01,0.07,0.02,0.23,0.1,0.48s0.12,0.39,0.1,0.43c-0.03,0.01-0.07-0.02-0.12-0.11s-0.12-0.19-0.19-0.3
+  c-0.06-0.07-0.07-0.15-0.04-0.25c0.03-0.1-0.07-0.38-0.29-0.85c-0.22-0.47-0.26-0.85-0.11-1.15s0.24-0.57,0.3-0.82
+  c0.03-0.21,0.09-0.25,0.19-0.13c0.1,0.12,0.1,0.11,0.02-0.01c-0.08-0.18-0.11-0.4-0.08-0.65c0.03-0.26,0.01-0.46-0.06-0.61
+  c-0.11-0.1-0.3-0.08-0.58,0.05S9.12,8.14,9.1,8.16c0.03-0.12,0.18-0.28,0.46-0.46l0.87-0.58c0.26-0.17,0.49-0.22,0.69-0.17
+  s0.41,0.12,0.62,0.21s0.34,0.12,0.37,0.1s0.01-0.06-0.06-0.13s-0.07-0.13,0.01-0.16S12.26,6.96,12.43,7
+  c0.17,0.03,0.31,0.11,0.42,0.24s0.3,0.18,0.54,0.17s0.32,0.01,0.25,0.06s-0.11,0.12-0.11,0.19c0.04,0.06,0.02,0.1-0.05,0.13
+  s-0.2,0.1-0.36,0.21s-0.18,0.19-0.05,0.26c0.13,0.07,0.36,0.21,0.67,0.41c0.28,0.19,0.41,0.19,0.41-0.01s-0.02-0.4-0.06-0.61
+  c-0.01-0.14,0.05-0.19,0.2-0.14s0.22,0.07,0.24,0.08c0.17,0.11,0.27,0.15,0.32,0.11s0.13-0.04,0.26-0.01
+  c0.17,0.07,0.37,0.19,0.6,0.37l0.41,0.33c-0.43,0.25-0.6,0.41-0.51,0.49s0.2,0.14,0.32,0.2c0.06,0.06,0.02,0.12-0.1,0.21
+  s-0.2,0.12-0.23,0.12c-0.08-0.08-0.15-0.1-0.2-0.05s-0.1,0.09-0.16,0.13c-0.06,0.04-0.07,0.09-0.05,0.14s0.04,0.09,0.05,0.1
+  c-0.3,0.07-0.47,0.22-0.49,0.44s-0.02,0.39-0.01,0.49c0,0.08-0.07,0.18-0.21,0.3s-0.24,0.23-0.31,0.34c-0.03,0.14,0,0.29,0.08,0.47
+  c0.08,0.17,0.08,0.27,0,0.3c-0.08-0.01-0.22-0.12-0.41-0.32c-0.19-0.2-0.55-0.24-1.08-0.13c-0.19,0.04-0.39,0.16-0.6,0.36
+  s-0.23,0.49-0.06,0.88c0.21,0.32,0.43,0.38,0.68,0.19c0.25-0.19,0.43-0.3,0.56-0.31c0.1,0.08,0.12,0.2,0.06,0.35
+  c-0.06,0.15-0.08,0.24-0.08,0.27c0.06-0.01,0.17,0.02,0.34,0.09s0.28,0.27,0.32,0.58c0.04,0.31,0.19,0.49,0.46,0.55
+  s0.45,0.08,0.57,0.07s0.28-0.09,0.48-0.24s0.32-0.24,0.37-0.27s0.17-0.06,0.35-0.1s0.47,0.03,0.84,0.23s0.67,0.31,0.88,0.35
+  s0.38,0.11,0.5,0.2s0.18,0.2,0.18,0.33s0.05,0.23,0.14,0.3c0.15,0.04,0.39,0.07,0.72,0.07s0.57,0.1,0.72,0.28
+  c0.07,0.28-0.08,0.73-0.46,1.38c-0.37,0.64-0.68,1.05-0.93,1.23c-0.18,0.12-0.34,0.29-0.48,0.49s-0.3,0.38-0.49,0.55
+  s-0.41,0.34-0.66,0.52s-0.51,0.34-0.78,0.5c-0.21,0.15-0.36,0.32-0.46,0.51s-0.19,0.32-0.27,0.4c1.81-0.43,3.28-1.34,4.43-2.75
+  C21.31,17.6,21.9,15.93,21.95,14z"></path>
+</svg>
+</a></li>
+  
+
+</ul>
+
+
+        </div>
+
+        <div class="executive-summary no-print" itemprop="description">
+          <p>Do what I love, love what I do. Make your production system run faster, better and cheaper!!! With 24/7/265 Online support, contact me if you need a person who keep your zoo!!!</p> 
+        </div>
+
+        
+        <a href="mailto:kaito.an2000@gmail.com" class="contact-button no-print" itemprop="email">Contact me</a>
+        
+
+      </header>
+
+      
+      <!-- begin Experience -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Experience</h2>
+        </header>
+
+        
+        <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">Censored</h3>
+          <h4 class="resume-item-details" itemprop="description">Freelancer • May, 2015 — Present</h4>
+          <p class="resume-item-copy">Working as a Site Reliability Engineering with Devops mindset. </p><ul class="resume-item-list"><li>Proven working experience in installing, configuring and troubleshooting Windows /Linux based environments</li><li>Solid experience in the administration and performance tuning of application stacks (e.g., LEMP/LAMP...)</li><li>Solid Cloud experience, preferably in GCE, Sakura Cloud</li><li>Experience with virtualization and containerization (e.g., VMware ESXi, Docker)</li><li>Solid networking knowledge (OSI network layers, TCP/IP)</li></ul><p></p>
+        </div><!-- end of resume-item -->
+        
+        <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">Censored</h3>
+          <h4 class="resume-item-details" itemprop="description">Network and System Administrator • Mar, 2014 — Mar, 2015</h4>
+          <p class="resume-item-copy">Responsible for hardware and software system configuration, installation, repair and maintenance on Microsoft network, computers and printers. Responsible for systems development and supports customer's projects.</p><ul class="resume-item-list"><li>Proven working experience in installing, configuring and troubleshooting Windows based environments</li><li>Experience in installing, configuring ERP system (e.g., QAD, SAP, AX, SAP B1...)</li><li>Experience with virtualization (e.g., VMware ESXi, Virtual Box)</li><li>Solid networking knowledge (OSI network layers, TCP/IP)</li><li>Working with Level 2 support in India, Thailand teams</li></ul><p></p>
+        </div><!-- end of resume-item -->
+        
+        <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">FPT Telecom</h3>
+          <h4 class="resume-item-details" itemprop="description">Python developer • Oct, 2013  — Mar, 2014</h4>
+          <p class="resume-item-copy">Learn how to program with Python, play with Linux, Git, Flask, vlc, ffmpeg, streaming video. Make some bugs and drop somethings in production database.</p>
+        </div><!-- end of resume-item -->
+        
+
+      </section>
+      <!-- end Experience -->
+      
+
+
+      
+      <!-- begin Education -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Education</h2>
+        </header>
+
+        
+        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name">HCMC University of Technology and Education</h3>
+          <h4 class="resume-item-details group" itemprop="description">Bachelor of Information Technology • 2009 — 2013</h4>
+          <h5 class="resume-item-details award-title" itemprop="description"></h5>
+          <p class="resume-item-copy" itemprop="description">
+            </p><ul class="resume-item-list">
+              
+            </ul>
+
+
+          <p class="resume-item-copy"></p>
+        </div>
+        
+      </section>
+      <!-- end Education -->
+      
+
+
+      
+      <!-- begin Projects -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Projects</h2>
+        </header>
+
+        
+        <div class="resume-item" itemscope="" itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="An Kaito" itemtype="http://schema.org/Person">
+          <h3 class="resume-item-title" itemprop="name">Pro No.1</h3>
+          <h4 class="resume-item-details" itemprop="description">System Solution Architecture  • 2016 — Present</h4>
+          <p class="resume-item-copy">A mobile application for messaging base on XMMP, running with LAMP Stack.</p>
+        </div>
+        
+        <div class="resume-item" itemscope="" itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="An Kaito" itemtype="http://schema.org/Person">
+          <h3 class="resume-item-title" itemprop="name">Pro No.2</h3>
+          <h4 class="resume-item-details" itemprop="description">System Engineer  • Oct, 2017 — Present</h4>
+          <p class="resume-item-copy">Some websites running with Java, MySQL, Nginx, Redis.</p>
+        </div>
+        
+
+      </section>
+      <!-- end Projects -->
+      
+
+      
+      <!-- begin Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Skills</h2>
+        </header>
+        
+        <div class="resume-item">
+          <h4 class="resume-item-details">Operation System</h4>
+          <p class="resume-item-copy">Centos 5/6/7, Ubuntu 12.04/14.04/16.04 LTS, Windows Server 2003/2008/2012</p>
+        </div>
+        
+        <div class="resume-item">
+          <h4 class="resume-item-details">Programming Languages</h4>
+          <p class="resume-item-copy">Python, Bash, Java, PHP</p>
+        </div>
+        
+        <div class="resume-item">
+          <h4 class="resume-item-details">Monitoring system</h4>
+          <p class="resume-item-copy">Nagios, Check_mk, Catic, OMD</p>
+        </div>
+        
+        <div class="resume-item">
+          <h4 class="resume-item-details">Databases</h4>
+          <p class="resume-item-copy">MSSQL, MySQL, Postgres, Cassandra, Oracle</p>
+        </div>
+        
+        <div class="resume-item">
+          <h4 class="resume-item-details">HA &amp; LB</h4>
+          <p class="resume-item-copy">Nginx, HAproxy, LVS</p>
+        </div>
+        
+        <div class="resume-item">
+          <h4 class="resume-item-details">CI/CD</h4>
+          <p class="resume-item-copy">Jenkins, Docker, Gitlab, Jira, Testlinks</p>
+        </div>
+        
+        <div class="resume-item">
+          <h4 class="resume-item-details">Logs system</h4>
+          <p class="resume-item-copy">Scribe, ELK, Splunk</p>
+        </div>
+        
+        <div class="resume-item">
+          <h4 class="resume-item-details">Others</h4>
+          <p class="resume-item-copy">Redis cluster, Kafka, Zookeeper...</p>
+        </div>
+        
+
+      </section>
+      <!-- end Skills -->
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+      <!-- begin Print Social Links -->
+      <section class="content-section print-only">
+
+        <header class="section-header">
+          <h2>Social Links</h2>
+        </header>
+
+        <div class="resume-item">
+        <!-- and guess where these are defined? Yup, you guessed it: the _config.yml file -->
+
+<ul>
+
+  <!-- GitHub link -->
+  
+  <li><strong>Github</strong>: https://github.com/kaitoan2000</li>
+  
+
+  <!-- Twitter link -->
+  
+
+  <!-- Dribbble link -->
+  
+
+  <!-- Facebook link -->
+  
+  <li><strong>Facebook</strong>: https://www.facebook.com/kaito.an2000</li>
+  
+
+  <!-- LinkedIn link -->
+  
+
+  <!-- Instagram link -->
+  
+
+  <!-- Website link -->
+  
+  <li><strong>Website</strong>: https://chuyencuasys.com/</li>
+  
+
+</ul>
+
+
+        </div>
+
+      </section>
+      <!-- end Print Social Links -->
+      
+
+    </div>
+
+  
+
+
+</body></html>
